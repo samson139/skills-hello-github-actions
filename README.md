@@ -7,6 +7,8 @@ _Create and run a GitHub Actions workflow._
 </header>
 
 ## Step 1: Create a workflow file
+## this is the added text
+
 
 _Welcome to "Hello GitHub Actions"! :wave:_
 
